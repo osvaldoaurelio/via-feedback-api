@@ -51,9 +51,9 @@ yarn test
 
 ### **GET** &emsp;&emsp;&emsp; /api/feedbacks/sent &emsp;&emsp;&emsp;&emsp; *Get yours sent feedbacks* &emsp;&emsp;&nbsp;&nbsp; *
 
-### **GET** &emsp;&emsp;&emsp; /api/feedbacks/received &emsp;&emsp; *Get yours received feedbacks* &nbsp;&nbsp;&nbsp;&nbsp; *
+### **GET** &emsp;&emsp;&emsp; /api/feedbacks/received &emsp;&emsp; *Get yours received feedbacks* &nbsp;&nbsp; *
 
-### **GET** &emsp;&emsp;&emsp; /api/feedbacks/:id &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *Get a feedback* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *
+### **GET** &emsp;&emsp;&emsp; /api/feedbacks/:id &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *Get a feedback* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *
 
 ### **POST** &emsp;&emsp;&nbsp; /api/feedbacks &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *Create a  new feedback* &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *
 
